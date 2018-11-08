@@ -1,0 +1,36 @@
+body,html{height:100%;padding:0px;margin:0px;}
+body {	background-image: url("../img/background.jpg");}
+.a{}
+.b{}
+.c{display:block}
+.a,.b,.c{display:inline-block;width:33.33%;height:100%;float:left;}
+.d{height:20%;position:fixed;width:100%;bottom:0px;}
+#nave{text-align:center;position:fixed;top:10%;width:50%;height:20%;z-index:102;left:25%;}
+#nave img{height:100%;}
+#luna {margin-left: auto;
+       margin-right: auto;
+       display: block;}
+#cpanel{}
+#hidem,#showm{display:none}
+#campeon,#loser{position:fixed;right:40%;top:20%;display:none;z-index:78632;height:30%}
+#powerdiv{position:fixed;z-index:103;bottom:5%;right:5%;}
+#powerB{position:absolute;right:0}
+#pause {top:5%;right:-65%;position:relative;}
+#playimg{display:none}
+#opcionesa{display:none;z-index:45000;position:fixed;top:25%;left:30%;}
+#cpanel{
+    list-style:none;
+}
+#panelaco{
+    position:relative;
+    top:25%;
+    left:0%;
+    width:65%;
+    color:white;
+    font-size:30px;
+}
+h3{color: red;}
+#abaut {background-color:blue;position:fixed;top:50%;right:35%;z-index:50;}
+#divaco{z-index:200;background-color:grey;top:35%;right:35%;display:none;}
+#youwin,#youlose{position:relative;height:70%}
+#velocidad,#fuel,#altura{color:white;font-size:30px;}

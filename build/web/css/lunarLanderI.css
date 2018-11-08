@@ -1,0 +1,43 @@
+html {
+	height:100%;
+	padding:0;
+	margin:0;
+}
+
+body {
+	background-image: url("../img/background.jpg");
+	font-size:3vw;
+	text-align:center;
+	height:100%;
+	padding:0;
+	margin:0;
+}
+
+.infoC {
+	background-color:#09771B;
+	position:relative;
+	height:80%;
+	width:80%;
+	left:10%;
+	top:10%;
+}	
+
+.infoB {
+	background-color:#104D1A;
+	position:relative;
+	height:90%;
+	width:90%;
+	left:3%;
+	top:5%;
+}	
+
+.txt {
+	position:relative;
+	top:50%;
+}
+
+.backB {
+	position:relative;
+	bottom:70%;
+	left:37.4%;
+}
